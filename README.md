@@ -9,10 +9,10 @@ https://data.humdata.org/dataset/qlik-sense-template-cod-mli
 For information on how to load [DEEP](https://beta.thedeep.io/) into the Qlik Mali Prototype -or any Qlik Sense Desktop app, see the Wiki. Here are details on the Qlik prototype:
 Keep in mind, this is one product under development. 
 
-# Operating Environment
+## Operating Environment
 Tablet, Laptop, Desktop, An Internet Connection is required to log in to Qlik Sense and once an application is loaded, there should be no internet connection needed if an application is stored locally with adequate permissions to files for a period of time. The saved authentication lasts for 10 days before a prompt to log in again.
 
-# Design and Implementation
+## Design and Implementation
 Must have connectivity to download source.
 
 •	Must have an operating environment to run Qlik Sense Desktop: http://help.qlik.com/en-US/sense/June2019/Subsystems/Hub/Content/Sense_Hub/Introduction/install-desktop.htm#anchor-1
@@ -29,13 +29,13 @@ Must have connectivity to download source.
 
 •	Load scripts have been prepared for Mali data, but these are a guide for other CODs as the data may not be uniform and transferrable for the script to load the data into the application. Each individual COD 3W environment may present a new set of opportunities and challenges and these may be addressed for each country.
 
-# User Documentation
+## User Documentation
 Documentation for the product is bundled with the installation. When the application is loaded, a sheet labelled “Introduction” includes some guided instructions for the application.
 Additionally, a webinar is under development for the product and individual files for instructions include:
 How to Extract COD zip File.docx
 How to Reconfigure Data Connection.docx
 
-# Assumptions and Dependencies
+## Assumptions and Dependencies
 •	System architecture to run the application
 
 •	A Qlik account
