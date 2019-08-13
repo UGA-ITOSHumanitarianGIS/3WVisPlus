@@ -3,7 +3,7 @@ Visualizations with COD, 3W plus Context
 
 Viewing COD mapped features in context of humanitarian operational sectors is useful for planning response. 
 
-ITOS supports visualization effort for UN OCHA. One way is through deploying the prototype available through HDX here:
+ITOS supports visualization effort for UN OCHA. One way is through deploying the **Qlik Mali Prototype** available through HDX here:
 https://data.humdata.org/dataset/qlik-sense-template-cod-mli
 
 For information on how to load [DEEP](https://beta.thedeep.io/) into the Qlik Mali Prototype -or any Qlik Sense Desktop app, see the Wiki. Here are details on the Qlik prototype:
