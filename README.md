@@ -6,7 +6,7 @@ Viewing COD mapped features in context of humanitarian operational sectors is us
 ITOS supports visualization effort for UN OCHA. One way is through deploying the prototype available through HDX here:
 https://data.humdata.org/dataset/qlik-sense-template-cod-mli
 
-For information on how to load DEEP into the Qlik Mali Prototype -or any Qlik Sense Desktop app, see the Wiki. Here are details on the Qlik prototype:
+For information on how to load [DEEP](https://beta.thedeep.io/) into the Qlik Mali Prototype -or any Qlik Sense Desktop app, see the Wiki. Here are details on the Qlik prototype:
 Keep in mind, this is one product under development. 
 
 # Operating Environment
