@@ -10,7 +10,7 @@ For information on how to load [DEEP](https://beta.thedeep.io/) into the Qlik Ma
 Keep in mind, this is one product under development. 
 
 ## Operating Environment
-Tablet, Laptop, Desktop, An Internet Connection is required to log in to Qlik Sense and once an application is loaded, there should be no internet connection needed if an application is stored locally with adequate permissions to files for a period of time. The saved authentication lasts for 10 days before a prompt to log in again.
+Tablet (running Windows 10), Laptop, Desktop, An Internet Connection is required to log in to Qlik Sense and once an application is loaded, there should be no internet connection needed if an application is stored locally with adequate permissions to files for a period of time. The saved authentication lasts for 10 days before a prompt to log in again.
 
 ## Design and Implementation
 Must have connectivity to download source.
