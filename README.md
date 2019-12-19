@@ -4,7 +4,7 @@ Visualizations with COD, 3W plus Context
 Viewing COD mapped features in context of humanitarian operational sectors is useful for planning response. 
 
 Several platforms enable visualization work including PowerBI, Tableau and Qlik. ITOS supports visualization effort for UN OCHA. A Qlik option with preloaded map data (kml format) highlights desktop capability and options for customizations. ITOS demonstrates two applications, one a base template focused at the country context and an example application which shows some interesting depictions through graphs and charts and maps of custom data. The [template](https://github.com/UGA-ITOSHumanitarianGIS/3WVisPlus/raw/master/Apps/iso_hxl_qlik_template_v11_MLI.qvf) is updated with more robust browsing capability. The earlier **Qlik Mali Prototype** available through HDX here:
-https://data.humdata.org/dataset/qlik-sense-template-cod-mli which will be updated in early 2020.
+https://data.humdata.org/dataset/qlik-sense-template-cod-mli will be updated in early 2020.
 
 For information on how to load [DEEP](https://beta.thedeep.io/) into the Qlik Mali Prototype -or any Qlik Sense Desktop app, see the [Wiki](https://github.com/UGA-ITOSHumanitarianGIS/3WVisPlus/wiki). Here are details on the Qlik prototype:
 Keep in mind, this is one product under development. 
